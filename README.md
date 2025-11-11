@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @DannyD0
 
-Hi! I’m Daniel Daramola, a Junior Information Systems student at the University of North Texas with a passion for data analytics, visualization, and programming.
+Hi! I’m Daniel Daramola, a Senior Information Systems student at the University of North Texas with a passion for data analytics, visualization, and programming.
 
 👨‍💻 What I Do:
  - Analyze and visualize data using Excel, Tableau, Power BI, and SQL.
